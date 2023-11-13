@@ -1,5 +1,3 @@
-# all-pairs-shortest-path
-all pairs shortest path solve using Dijkstra/Floyd. Python.
 
 입력 방식은 (노드,노드,가중치)
 예: (서울, 부산,10), (울산, 부산, 19)
